@@ -22,8 +22,8 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git config --global user.name "YOUR NAME"
-          git config --global user.email "your@email.com"
+          git config --global user.name "talhabutt7"
+          git config --global user.email "talhabuttt@gmail.com"
           git add quotes.txt
           git diff --cached --quiet || git commit -m "Add daily quote: $(date -u)"
           git push
