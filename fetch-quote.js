@@ -2,8 +2,16 @@ const fs = require('fs');
 const https = require('https');
 const { execSync } = require('child_process');
 
+// 1. First commit: today's date
+const today = new Date().toISOString().slice(0, 10);
+fs.appendFileSync('quotes.txt', `\n===== ${today} =====\n`);
+console.log(`Date added: ${today}`);
+execSync('git add quotes.txt');
+execSync(`git commit -m "Log date: ${today}"`);
+execSync('git push');
+
+// 2. Proceed with quotes as before
 function getRandomInt(min, max) {
-  // Inclusive min and max
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
@@ -23,21 +31,17 @@ function fetchAndCommitQuote(repeat, done) {
         const line = `"${quote}" — ${author}\n`;
         fs.appendFileSync('quotes.txt', line);
         console.log('Quote added:', line.trim());
-
-        // Git commit and push
         execSync('git add quotes.txt');
         execSync(`git commit -m "Add quote: ${quote.substring(0, 20)}..."`);
         execSync('git push');
       } catch (err) {
-        // Fallback if something goes wrong
         const line = `"Default fallback quote" — Assistant\n`;
         fs.appendFileSync('quotes.txt', line);
         execSync('git add quotes.txt');
         execSync('git commit -m "Add fallback quote"');
         execSync('git push');
       }
-      // Wait a bit, then do the next quote
-      setTimeout(() => fetchAndCommitQuote(repeat - 1, done), 20000); // 20 sec delay
+      setTimeout(() => fetchAndCommitQuote(repeat - 1, done), 60000); // 60 sec delay
     });
   }).on("error", (err) => {
     const line = `"Default fallback quote" — Assistant\n`;
@@ -45,7 +49,7 @@ function fetchAndCommitQuote(repeat, done) {
     execSync('git add quotes.txt');
     execSync('git commit -m "Add fallback quote"');
     execSync('git push');
-    setTimeout(() => fetchAndCommitQuote(repeat - 1, done), 20000);
+    setTimeout(() => fetchAndCommitQuote(repeat - 1, done), 60000);
   });
 }
 
