@@ -24,6 +24,6 @@ jobs:
         run: |
           git config --global user.name "talhabutt7"
           git config --global user.email "talhabuttt@gmail.com"
-          git add quotes.txt
+          git add .
           git diff --cached --quiet || git commit -m "Add daily quote: $(date -u)"
           git push
