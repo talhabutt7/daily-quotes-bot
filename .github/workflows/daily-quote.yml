@@ -1,0 +1,29 @@
+name: Daily Quote Commit
+
+on:
+  schedule:
+    - cron: '0 7 * * *'  # Every day at 7 AM UTC
+  workflow_dispatch:
+
+jobs:
+  add-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Add quote from API
+        run: node fetch-quote.js
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "YOUR NAME"
+          git config --global user.email "your@email.com"
+          git add quotes.txt
+          git diff --cached --quiet || git commit -m "Add daily quote: $(date -u)"
+          git push
