@@ -1086,3 +1086,4 @@
 "A tiny change today brings a dramatically different tomorrow." — Richard Bach
 "Do not pray for an easy life, pray for the strength to endure a difficult one.  " — Bruce Lee
 "Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present." — George Bernard Shaw
+"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat." — Sun Tzu
