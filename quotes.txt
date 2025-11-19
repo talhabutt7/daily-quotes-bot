@@ -2080,3 +2080,4 @@
 "Decide whether or not the goal is worth the risks involved. If it is, stop worrying." — Amelia Earhart
 "Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble." — Robert Greene
 "You are the average of the five people you spend the most time with." — Jim Rohn
+"The first rule of handling conflict is don't hang around people who are constantly engaging in conflict." — Naval Ravikant
