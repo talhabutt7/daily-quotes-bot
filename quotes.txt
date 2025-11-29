@@ -2271,3 +2271,4 @@
 "Whether you think you can or think you can't – you are right." — Henry Ford
 "A journey of a thousand miles begins with a single step." — Lao Tzu
 "The strongest and sweetest songs yet remain to be sung." — Walt Whitman
+"Progress is impossible without change, and those who cannot change their minds cannot change anything." — George Bernard Shaw
