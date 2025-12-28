@@ -2794,3 +2794,4 @@
 "If it's not broken, tinker with it till you find out how it works." — Bob Proctor
 "If someone betrays you once, it's their fault; if they betray you twice, it's your fault." — Eleanor Roosevelt
 "Happiness is not a goal...it's a by-product of a life well lived." — Eleanor Roosevelt
+"All we have to decide is what to do with the time that is given to us." — J.R.R. Tolkien
