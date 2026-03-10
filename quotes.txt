@@ -4193,3 +4193,4 @@
 "If you aren't sure which way to do something, do it both ways and see which works better." — John Carmack
 "There is no such thing as a great talent without great willpower." — Honore de Balzac
 "Abundance of knowledge does not teach men to be wise." — Heraclitus
+"To live is to be willing to die over and over again." — Pema Chodron
