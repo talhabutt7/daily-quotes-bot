@@ -4190,3 +4190,4 @@
 "The consequences of today are determined by the actions of the past. To change your future, alter your decisions today." — Unknown
 
 ===== 2026-03-10 =====
+"If you aren't sure which way to do something, do it both ways and see which works better." — John Carmack
