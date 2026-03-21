@@ -4380,3 +4380,4 @@
 "Here is the test to find whether your mission on earth is finished. If you're alive, it isn't." — Richard Bach
 "Many of life's failures are people who did not realize how close they were to success when they gave up." — Thomas Edison
 "We have no more right to consume happiness without producing it than to consume wealth without producing it." — George Bernard Shaw
+"Everything is created twice, first in the mind and then in reality." — Robin Sharma
