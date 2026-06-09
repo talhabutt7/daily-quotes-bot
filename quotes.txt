@@ -5813,3 +5813,4 @@
 "If you genuinely want something, don't wait for it - teach yourself." — Gurbaksh Chahal
 "Default fallback quote" — Assistant
 "A man who dares to waste one hour of time has not discovered the value of life." — Charles Darwin
+"The only real mistake is the one from which we learn nothing." — Henry Ford
