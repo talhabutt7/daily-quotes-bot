@@ -5837,3 +5837,4 @@
 "If you spend too much time thinking about a thing, you'll never get it done." — Bruce Lee
 "The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails." — Colin R. Davis
 "If you spend too much time thinking about a thing, you'll never get it done." — Bruce Lee
+"Insanity: doing the same thing over and over again and expecting different results." — Albert Einstein
