@@ -5866,3 +5866,4 @@
 "Don't let what you cannot do interfere with what you can do." — John Wooden
 "Experience is simply the name we give our mistakes." — Oscar Wilde
 "Default fallback quote" — Assistant
+"Failure is an option here. If things are not failing, you are not innovating enough." — Elon Musk
