@@ -6310,3 +6310,4 @@
 "Default fallback quote" — Assistant
 "Live life as though nobody is watching, and express yourself as though everyone is listening." — Nelson Mandela
 "Default fallback quote" — Assistant
+"Success is never final, failure is never fatal. It's courage that counts." — John Wooden
