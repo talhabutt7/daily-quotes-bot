@@ -7261,3 +7261,4 @@
 "Default fallback quote" — Assistant
 "A crisis is an opportunity riding the dangerous wind." — Chinese Proverb
 "Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations." — Alfred Adler
+"If I have seen further than others, it is by standing upon the shoulders of giants." — Isaac Newton
