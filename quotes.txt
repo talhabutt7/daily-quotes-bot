@@ -7979,3 +7979,4 @@
 "Given the choice between the experience of pain and nothing, I would choose pain." — William Faulkner
 "Default fallback quote" — Assistant
 "Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours." — Orison Swett Marden
+"It is dangerous to be right in matters on which the established authorities are wrong." — Voltaire
