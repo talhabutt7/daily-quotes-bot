@@ -8262,3 +8262,4 @@
 "The time is now, the place is here. Stay in the present." — Dan Millman
 "There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect." — Ronald Reagan
 "Do not believe that you will reach your destination without leaving the shore." — Chinese Proverb
+"Opportunity is missed by most people because it is dressed in overalls and looks like work." — Thomas Edison
