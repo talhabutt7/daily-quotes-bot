@@ -8280,3 +8280,4 @@
 "Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things." — Celestine Chua
 "Excellence is not an exception, it is a prevailing attitude." — Colin Powell
 "The single biggest problem in communication is the illusion that it has taken place." — George Bernard Shaw
+"Focus is a matter of deciding what things you're not going to do." — John Carmack
