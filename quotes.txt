@@ -8612,3 +8612,4 @@
 "Nothing important is learned; it is simply remembered." — Carlos Ruiz Zafon
 "Do it with passion, or not at all." — Rosa Nouchette Carey
 "Hope and fear come from feeling that we lack something; they come from a sense of poverty." — Pema Chodron
+"Default fallback quote" — Assistant
