@@ -8811,3 +8811,4 @@
 "The real measure of your wealth is how much you'd be worth if you lost all your money." — Unknown
 "Default fallback quote" — Assistant
 "The hard path is often the right one. The river teaches more than the shore." — Maxime Lagace
+"Death is not sad; the sad thing is that most people don't really live at all." — Dan Millman
