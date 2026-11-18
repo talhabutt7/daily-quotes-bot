@@ -8834,3 +8834,4 @@
 "The wise pursue wisdom, the dull follow in blind faith." — Tibetan Proverb
 "Default fallback quote" — Assistant
 "You are the only problem you will ever have and you are the only solution." — Bob Proctor
+"Rest and be kind, you don't have to prove anything." — Jack Kerouac
